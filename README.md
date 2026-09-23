@@ -1,6 +1,6 @@
 # Rolls-Royce Holdings plc — Equity Research Project
 
-> **Student investment research | LSE: RR. | Data in this draft primarily through 11 September 2026**
+> **Student investment research | Data in this draft primarily through 11 September 2026**
 
 ## Research question
 
